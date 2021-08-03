@@ -3,9 +3,9 @@ body{
 }
 #thridDiv {
     height: 600px;
-    width: 400px;
+    width: 500px;
     background-color: blueviolet;
-    border: 1px das #ff0000;
+    border: 1px dashed #ff0000;
     padding: 50px;
 }
 #spanId {
@@ -20,6 +20,7 @@ header{
     color: royalblue;
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
+    
 }
