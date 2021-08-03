@@ -1,11 +1,17 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+    h1 {
+        color:cyan ;
+    }
+    img {
+        width: 300px;
+    }
 #thridDiv {
     height: 600px;
     width: 500px;
     background-color: blueviolet;
-    border: 1px dashed #ff0000;
+    border: 10px dashed #ff0000;
     padding: 50px;
 }
 #spanId {
@@ -18,9 +24,4 @@ head{
 }
 header{
     color: royalblue;
-}
-img{
-    width: 400px;
-    height: 400px;
-    
 }
